@@ -1,6 +1,6 @@
 {
-    "name": "dreamer fall",
-    "model": "vosk-model-small-en-us-0.15",
+    "name": "your name",
+    "model": "your vosk model",
     "vers": "1.2.0",
     "init-push": true,
     "speech-mode": true,
